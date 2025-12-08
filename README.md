@@ -28,7 +28,7 @@ For more examples, please refer to the `Documentation`.
 
 **SQL** - used for structured data storage and retrieval.
 
-**HTML & CSS** - used for developing interface components where needed.
+**HTML & CSS** - used for developing interface components.
 
 **MediaPipe / OpenPose** - used for real-time human pose estimation.
 
