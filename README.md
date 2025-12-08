@@ -13,7 +13,7 @@ The project also includes features for logging workout data, such as sets, repet
 Development follows an evidence-based, ethical, and user-focused approach and includes research, design, implementation, risk analysis, and evaluation planning.
 
 
-### Project Objectives
+## Project Objectives
 1. Develop an AI-powered model capable of recognising common gym exercises from pose-estimation data.
 2. Explore suitable datasets and training methods to support accurate and generalisable recognition.
 3. Design and develop a prototype mobile interface for displaying exercise information and enabling workout tracking.
